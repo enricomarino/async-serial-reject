@@ -1,0 +1,9 @@
+{
+  "name": "async-reject-series",
+  "repo": "enricomarino/async-reject-series",
+  "version": "0.0.1",
+  "description": "async reject series",
+  "keywords": ["async", "reject", "series"],
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
