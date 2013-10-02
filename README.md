@@ -1,10 +1,10 @@
-# async-reject-series
+# async-serial-reject
 
-async reject series
+async serial reject
 
 ## Installation
 
-    $ component install enricomarino/async-reject-series
+    $ component install enricomarino/async-serial-reject
 
 ## License
 
