@@ -1,6 +1,6 @@
 {
-  "name": "async-reject-series",
-  "repo": "enricomarino/async-reject-series",
+  "name": "async-serial-reject",
+  "repo": "enricomarino/async-serial-reject",
   "version": "0.0.1",
   "description": "async reject series",
   "keywords": ["async", "reject", "series"],
